@@ -1,4 +1,4 @@
-## The current privacy policy of the TFT Browser Extension.
+## The current privacy policy for the TFT Browser Extension.
 
 
 Our extension does not handle personal or sensitive information.
